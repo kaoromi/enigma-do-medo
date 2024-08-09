@@ -1,0 +1,60 @@
+body {
+    background: Black;
+    color:plum;
+    margin: 3px;
+    font-family: "Poppins", sans-serif;
+}
+
+header {
+    border-bottom: solid 1px white;
+    font-size: 17px;
+
+}
+
+
+.chamada {
+    background: rgb(21, 13, 28, 1);
+    padding: 80px;
+    display: flex;
+    justify-content: center
+    
+}
+
+.chamada-texto {
+    margin-right: 5%
+}
+
+h1 {
+    font-size: 20px;
+}
+
+p {
+    font-size: 12px
+}
+
+.categoria-videos{
+    display: flex;
+    gap: 20px
+}
+
+.episódios {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px;
+    margin-bottom: 100px
+}
+
+.categoria-videos img {
+    opacity: 0.5;
+    height: 200px
+}
+
+.categoria-videos img:hover {
+    opacity: 1.0;
+    border: 2px solid 
+
+}
+
+.episódios h2 {
+    color: white
+}
